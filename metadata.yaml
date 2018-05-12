@@ -1,0 +1,30 @@
+_repo: Personal-Recollections-of-the-Civil-War--13-By-One-Who-Took-Part-in-It-as-a-Private-Soldier-i__33179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stone, James Madison
+    birthdate: 1840
+    gutenberg_agent_id: '36246'
+    url: http://www.gutenberg.org/2009/agents/36246
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 21st (1861-1864)'
+- !lcsh 'Massachusetts -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: "Personal Recollections of the Civil War\r\nBy One Who Took Part in It as a\
+  \ Private Soldier in the 21st Volunteer Regiment of Infantry from Massachusetts"
+url: http://www.gutenberg.org/ebooks/33179
